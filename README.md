@@ -26,3 +26,4 @@ The code is indented and you must include proper comments etc.
 Named the files/ folder structure appropriately
 Maximum use of Semantic Elements instead of normal container elements
 Also Made it look responsive....
+ https://vijay1502.github.io/bootstrap-assignment/.
